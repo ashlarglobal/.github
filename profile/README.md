@@ -1,6 +1,6 @@
 # ASHLAR SDLC - Development Guidelines - Best Practices
 
-Welcome to ASHLAR's Development Guidelines and Best Practices repository! :rocket:
+Welcome to ASHLAR's Github it contains public projects, Development Guidelines and Best Practices Repositories! :rocket:
 
 ## 🙋‍♀️ A short introduction - what is your organization all about?
 
