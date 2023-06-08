@@ -1,4 +1,4 @@
-# ASHLAR SDLC, Development Guidelines and Best Practices
+# ASHLAR SDLC - Development Guidelines - Best Practices
 
 Welcome to ASHLAR's Development Guidelines and Best Practices repository! :rocket:
 
