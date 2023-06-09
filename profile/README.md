@@ -6,7 +6,7 @@
 
 Welcome to ASHLAR's Github it contains public projects, Development Guidelines and Best Practices Repositories! :rocket: 
 
-Trusted by clients <a href="https://www.trustpilot.com/" style="display: inline-block; text-decoration: none; color: inherit;">
+Trusted by clients <a href="https://www.trustpilot.com/review/ashlarglobal.com" style="display: inline-block; text-decoration: none; color: inherit;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Trustpilot_Logo_%282022%29.svg" alt="Trustpilot Logo" style="height: 20px; width: auto; vertical-align: middle; margin-right: 5px;">
 </a>
 
