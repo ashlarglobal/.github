@@ -2,6 +2,9 @@
 
 Welcome to ASHLAR's Github it contains public projects, Development Guidelines and Best Practices Repositories! :rocket:
 
+## [SDLC Lifecycle](sdlc-lifecycle.md)
+
+
 ## 🙋‍♀️ A short introduction - what is your organization all about?
 
 At ASHLAR, we are a leading IT company specializing in delivering high-quality software solutions to our clients. Our mission is to leverage cutting-edge technologies and industry best practices to develop innovative and reliable software applications that drive business growth.
