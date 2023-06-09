@@ -1,19 +1,20 @@
 <h1 align="center">
   <img src="https://ashlarglobal.com/images/main-2.png" alt="ASHLAR Logo" width="300px">
 </h1>
+
 # ASHLAR SDLC - Development Guidelines - Best Practices
 
-Welcome to ASHLAR's Github it contains public projects, Development Guidelines and Best Practices Repositories! :rocket:
+Welcome to ASHLAR's Github it contains public projects, Development Guidelines and Best Practices Repositories! :rocket: <a href="https://www.trustpilot.com/" style="display: inline-block; text-decoration: none; color: inherit;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Trustpilot_Logo_%282022%29.svg" alt="Trustpilot Logo" style="height: 40px; width: auto; vertical-align: middle; margin-right: 10px;">
+  Trusted on Trustpilot
+</a>
 
 ## [SDLC Lifecycle](sdlc-lifecycle.md)
 
 
 ## 🙋‍♀️ A short introduction - what is your organization all about?
 
-At ASHLAR is a leading IT company specializing in delivering high-quality software solutions to our clients. <a href="https://www.trustpilot.com/" style="display: inline-block; text-decoration: none; color: inherit;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Trustpilot_Logo_%282022%29.svg" alt="Trustpilot Logo" style="height: 20px; width: auto; vertical-align: middle; margin-right: 5px;">
-  Trusted on Trustpilot
-</a> Our mission is to leverage cutting-edge technologies and industry best practices to develop innovative and reliable software applications that drive business growth.
+At ASHLAR is a leading IT company specializing in delivering high-quality software solutions to our clients.Our mission is to leverage cutting-edge technologies and industry best practices to develop innovative and reliable software applications that drive business growth.
 
 This repository serves as a central hub for our team members, providing comprehensive guidelines and resources to ensure consistent and efficient software development practices across our organization. It encompasses various aspects of the development process, including project management methodologies, coding standards, testing strategies, and deployment procedures.
 
