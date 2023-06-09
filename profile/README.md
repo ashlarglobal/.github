@@ -2,11 +2,11 @@
   <img src="https://ashlarglobal.com/images/main-2.png" alt="ASHLAR Logo" width="300px">
 </h1>
 
-# ASHLAR SDLC - Development Guidelines - Best Practices
-
-Welcome to ASHLAR's Github it contains public projects, Development Guidelines and Best Practices Repositories! :rocket: <a href="https://www.trustpilot.com/" style="display: inline-block; text-decoration: none; color: inherit;">
+# ASHLAR SDLC - Development Guidelines - Best Practices which are Trusted by Clients <a href="https://www.trustpilot.com/" style="display: inline-block; text-decoration: none; color: inherit;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Trustpilot_Logo_%282022%29.svg" alt="Trustpilot Logo" style="height: 20px; width: auto; vertical-align: middle; margin-right: 5px;">
 </a>
+
+Welcome to ASHLAR's Github it contains public projects, Development Guidelines and Best Practices Repositories! :rocket: 
 
 ## [SDLC Lifecycle](sdlc-lifecycle.md)
 
