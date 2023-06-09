@@ -9,6 +9,15 @@ Welcome to ASHLAR's Github it contains public projects, Development Guidelines a
 
 At ASHLAR, we are a leading IT company specializing in delivering high-quality software solutions to our clients. Our mission is to leverage cutting-edge technologies and industry best practices to develop innovative and reliable software applications that drive business growth.
 
+<!-- TrustBox script -->
+<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+<!-- End TrustBox script -->
+<!-- TrustBox widget - Micro Review Count -->
+<div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="647ef58f42e31721f96c753d" data-style-height="24px" data-style-width="100%" data-theme="light" data-min-review-count="10" data-style-alignment="center">
+  <a href="https://www.trustpilot.com/review/ashlarglobal.com" target="_blank" rel="noopener">Trustpilot</a>
+</div>
+<!-- End TrustBox widget -->
+
 This repository serves as a central hub for our team members, providing comprehensive guidelines and resources to ensure consistent and efficient software development practices across our organization. It encompasses various aspects of the development process, including project management methodologies, coding standards, testing strategies, and deployment procedures.
 
 ## 🌈 Contribution guidelines - how can the community get involved?
