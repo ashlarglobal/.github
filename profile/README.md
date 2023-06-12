@@ -11,6 +11,7 @@ Trusted by clients <a href="https://www.trustpilot.com/review/ashlarglobal.com" 
 </a>
 
 ## [SDLC Lifecycle](sdlc-lifecycle.md)
+## [Git Branching Strategy and Practices](git-strategy.md)
 
 
 ## 🙋‍♀️ A short introduction - what is your organization all about?
