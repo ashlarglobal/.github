@@ -13,6 +13,7 @@ Trusted by clients <a href="https://www.trustpilot.com/review/ashlarglobal.com" 
 ## [SDLC Lifecycle](sdlc-lifecycle.md)
 ## [Git Branching Strategy and Practices](git-strategy.md) 
 ## [RESTful API Strategy and Practices](restful-api-practices-strategy.md)
+## [ASHLAR Project Workflow and Tooling Guide](workflow-tooling-guide.md)
 
 
 ## 🙋‍♀️ A short introduction - what is your organization all about?
